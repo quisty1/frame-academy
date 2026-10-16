@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.renders/
+.DS_Store
+*.tsbuildinfo
+core
+core.*
